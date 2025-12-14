@@ -15,7 +15,7 @@
 
 ### 👨‍💻 About Me
 - Final year undergraduate and passionate programmer  
-- Focused on **web development, mobile apps, and machine learning**  
+- Focused on **web development, mobile app development, and machine learning**  
 - Building projects that combine creativity and functionality  
 
 ---
