@@ -14,7 +14,7 @@
 ---
 
 ### 👨‍💻 About Me
-- Final year undergraduate and passionate programmer  
+- Passionate software engineer  
 - Focused on **web development, mobile app development, and machine learning**  
 - Building projects that combine creativity and functionality  
 
